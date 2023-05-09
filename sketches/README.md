@@ -4,11 +4,11 @@
 - **Original Painting:** The Turning Road by Andre Derain
 - **My Work:** The Chaotic Forest
 
-<img src="coordinates/dan-landscape.png" width="40%" height="40%">
+<img src="coordinates/dan-landscape.png" width="60%" height="60%">
 
 2. Repetition: Creating a virtual textile
 
-<img src="repetition/repetition.png" width="40%" height="40%">
+<img src="repetition/repetition.png" width="60%" height="60%">
 
 4. Indeterminacy: Using randomness to produce art
 5. Nonlinearity: A nonlinear narrative in text adventure style
