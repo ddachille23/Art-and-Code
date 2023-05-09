@@ -1,12 +1,13 @@
 # Sketches
 
 1. Coordinates: Reinterpretation of a famous landscape painting
-- **Original Painting:** The Turning Road by Andre Derain
-- **My Work:** The Chaotic Forest
+- The Chaotic Forest (my reinterpretation of The Turning Road by Andre Derain)
 
 <img src="coordinates/dan-landscape.png" width="50%" height="50%">
 
 2. Repetition: Creating a virtual textile
+
+- Geometric Sunlight
 
 <img src="repetition/repetition.png" width="50%" height="50%">
 
