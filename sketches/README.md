@@ -27,7 +27,7 @@
 - Chaotic Crossing
 <img src="emergence/emergence.gif" height="30%" width="30%">
 
-10. [Interface](interface): A software painting interface for a specific use case
+9. [Interface](interface): A software painting interface for a specific use case
 - BlindBrush: A painting program for the blind
 <img src="interface/blind-drawing.png" height="50%" width="50%">
 
