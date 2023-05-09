@@ -6,3 +6,5 @@
 Other Instructions: 
 - Sound Library Required: Steps to Install (in the python processing IDE)
   - Sketch (in the top bar) → Import Library… → Add Library… → Search “Sound” at the top → Select the one that says “Sound | Provides a simple way to work with audio” → Click “Install” on the bottom right → Close pop up window and run the code!
+
+![](blind-drawing.png)
