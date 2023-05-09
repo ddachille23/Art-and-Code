@@ -8,7 +8,7 @@
 
 2. Repetition: Creating a virtual textile
 
-<img src="repetition/dan_repetition.png" width="40%" height="40%">
+<img src="repetition/repetition.png" width="40%" height="40%">
 
 4. Indeterminacy: Using randomness to produce art
 5. Nonlinearity: A nonlinear narrative in text adventure style
