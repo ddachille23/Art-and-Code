@@ -8,7 +8,7 @@
 - Geometric Sunlight
 <img src="repetition/repetition.png" width="50%" height="50%">
 
-3. [Indeterminacy](Indeterminacy): Using randomness to produce art
+3. [Indeterminacy](indeterminacy): Using randomness to produce art
 - Bullish or Bearish?
 <img src="indeterminacy/random.png" width="50%" height="50%">
 
