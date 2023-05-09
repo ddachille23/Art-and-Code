@@ -1,7 +1,7 @@
 # Sketches
 
 1. Coordinates: Reinterpretation of a famous landscape painting
-2. Repeition: Creating a virtual textile
+2. Repetition: Creating a virtual textile
 3. Indeterminacy: Using randomness to produce art
 4. Nonlinearity: A nonlinear narrative in text adventure style
 5. Glitch: Creating a "glitch" effect on a collection of images 
